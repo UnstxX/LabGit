@@ -1,9 +1,1 @@
-hello
-
-hello
-
-hello
-
-hello
-
-21
+world is good
